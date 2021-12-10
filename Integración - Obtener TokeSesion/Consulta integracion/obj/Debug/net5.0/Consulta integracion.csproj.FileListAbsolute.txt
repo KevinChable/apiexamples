@@ -1,0 +1,20 @@
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\Consulta integracion.exe
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\Consulta integracion.deps.json
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\Consulta integracion.runtimeconfig.json
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\Consulta integracion.runtimeconfig.dev.json
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\Consulta integracion.dll
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\ref\Consulta integracion.dll
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\Consulta integracion.pdb
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\RestSharp.dll
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\System.Web.Extensions.dll
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\Consulta integracion.csproj.AssemblyReference.cache
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\Consulta integracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\Consulta integracion.AssemblyInfoInputs.cache
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\Consulta integracion.AssemblyInfo.cs
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\Consulta integracion.csproj.CoreCompileInputs.cache
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\Consulta integracion.csproj.CopyComplete
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\Consulta integracion.dll
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\ref\Consulta integracion.dll
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\Consulta integracion.pdb
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\obj\Debug\net5.0\Consulta integracion.genruntimeconfig.cache
+C:\Users\SalesUp!\source\repos\Consulta integracion\Consulta integracion\bin\Debug\net5.0\Newtonsoft.Json.dll
